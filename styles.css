@@ -224,6 +224,10 @@ figcaption{
     font-family: 'Times New Roman', Times, serif;
 }
 
+.l4{
+    cursor: pointer;
+}
+
 .poster-text{
     margin:1rem;
     display: flex;
